@@ -90,11 +90,13 @@ Special thanks to Akshay Saini 🚀 for his invaluable guidance. His teaching ap
 
 ## Author
 
-Akash Deep \
+Kumar Abhishek \
 Email: 4kumar.abhishek@gmail.com \
 LinkedIn : https://www.linkedin.com/in/4kumarabhishek/
 
 ## Project Link
+
+[Live Link](https://netflix-gpt-abhi-three.vercel.app/)
 
 ## Thank You
 
